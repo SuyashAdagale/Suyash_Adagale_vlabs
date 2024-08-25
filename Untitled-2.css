@@ -1,0 +1,26 @@
+/* Hero Section */
+.hero {
+    background: url('https://via.placeholder.com/1200x600') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #222;
+    color: #ddd;
+}
